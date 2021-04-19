@@ -1,4 +1,4 @@
-# NNtrainer
+# NNtrainer - CI tests
 
 [![Code Coverage](http://nnsuite.mooo.com/nntrainer/ci/badge/codecoverage.svg)](http://nnsuite.mooo.com/nntrainer/ci/gcov_html/index.html)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nnstreamer/nntrainer)
